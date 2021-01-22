@@ -14,7 +14,3 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-[![HitCount](http://hits.dwyl.com/mokhwasomssi/stm32f4_hal_icm20948_lib.svg)](http://hits.dwyl.com/mokhwasomssi/stm32f4_hal_icm20948_lib)
-
-[![HitCount](http://hits.dwyl.com/mokhwasomssi/mokhwasomssi.svg)](http://hits.dwyl.com/mokhwasomssi/mokhwasomssi)
