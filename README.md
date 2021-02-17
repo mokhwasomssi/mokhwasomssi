@@ -4,7 +4,7 @@
 ## programming language
 * C / C++
 
-## tool
+## tools used to develop
 
 - micro controller
     * STM32CubeIDE  
@@ -21,7 +21,7 @@
 * Git
 * Serial Studio
 
-## project
-* quadcopter
-* line follower with self-banlancing   
-* omni wheel robot
+## projects
+* quadcopter << now
+* line follower with self-banlancing << later
+* omni wheel robot << later
