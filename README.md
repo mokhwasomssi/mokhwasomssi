@@ -22,6 +22,8 @@
 * Serial Studio
 
 ## projects
+* line follower
+* balancing robot
 * quadcopter << now
 * line follower with self-banlancing << later
 * omni wheel robot << later
