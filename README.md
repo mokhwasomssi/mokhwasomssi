@@ -19,4 +19,3 @@
 * [balancing robot](https://github.com/mokhwasomssi/stm32_hal_balancing_bot.git) (2019.12 ~ 2020.02)
 * [line follower ver.2](https://github.com/mokhwasomssi/stm32_hal_line_tracer.git) (2019.06 ~ 2019.08)
 * [line follower ver.1](https://github.com/mokhwasomssi/stm32_spl_line_tracer.git) (2018.05 ~ 2018.07)
-# mokhwasomssi
