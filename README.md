@@ -2,7 +2,7 @@
 * 임베디드 sw 개발자를 희망하는 대학생입니다. 
 
 ## Channel 🔔
-- [블로그](https://mokhwasomssi.tistory.com/)
+- [Blog](https://mokhwasomssi.tistory.com/)
 
 ## Programming language ✏
 * C / C++
