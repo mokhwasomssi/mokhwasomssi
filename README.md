@@ -1,5 +1,5 @@
 ## About me 🐤
-* 임베디드 sw 개발자를 희망하는 대학생입니다. 
+* 임베디드 개발자를 희망하는 대학생입니다. 
 
 ## Channel 🔔
 - [Blog](https://mokhwasomssi.tistory.com/)
@@ -11,7 +11,6 @@
 * STM32CubeIDE  
 * SOLIDWORKS
 * KiCad
-* Git
 
 ## Projects 📝
 * [drone with gyroscopic guard](https://github.com/mokhwasomssi/drone_with_gyroscopic_guard.git) (2020.09 ~ )
