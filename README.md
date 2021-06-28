@@ -26,14 +26,10 @@
 
 ### Library
 * [Dshot](https://github.com/mokhwasomssi/stm32_hal_dshot.git)
-  - Dshot protocol library with STM32 HAL driver
   - Drone ESC digital protocol
 * [ICM-20948](https://github.com/mokhwasomssi/stm32_hal_icm20948.git)
-  - ICM20948 library with STM32 HAL driver
   - 9-axis IMU sensor
 * [MPU6050](https://github.com/mokhwasomssi/stm32_hal_mpu6050.git)
-  - MPU6050 library wiht STM32 HAL driver
   - 6-axis IMU sensor
 * [Flysky ibus](https://github.com/mokhwasomssi/stm32_hal_flysky_ibus.git)
-  - Flysky Ibus protocol library with STM32 HAL driver
   - RC receiver protocol (Based on UART)
