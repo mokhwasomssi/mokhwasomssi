@@ -15,13 +15,13 @@
 ## What I did 📝
 
 ### Projects 
-* [drone with gyroscopic guard](https://github.com/mokhwasomssi/drone_with_gyroscopic_guard.git) (2020.09 ~ )
+* [drone with gyroscopic guard](https://github.com/mokhwasomssi/drone_with_gyroscopic_guard.git)
   - Develop drone firmware and Design gyroscopic guard.
-* [balancing robot](https://github.com/mokhwasomssi/stm32_hal_balancing_bot.git) (2019.12 ~ 2020.02)
+* [balancing robot](https://github.com/mokhwasomssi/stm32_hal_balancing_bot.git)  
   - Simple balancing robot using MPU6050.
-* [line follower ver.2](https://github.com/mokhwasomssi/stm32_hal_line_tracer.git) (2019.06 ~ 2019.08)
+* [line follower ver.2](https://github.com/mokhwasomssi/stm32_hal_line_tracer.git)
   - Add PID control and ADC calibration.
-* [line follower ver.1](https://github.com/mokhwasomssi/stm32_spl_line_tracer.git) (2018.05 ~ 2018.07)
+* [line follower ver.1](https://github.com/mokhwasomssi/stm32_spl_line_tracer.git) 
   - Focus on using the peripherals.
 
 ### Library
