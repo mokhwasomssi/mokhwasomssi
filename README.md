@@ -12,9 +12,9 @@
 * SOLIDWORKS
 * KiCad
 
-## What I did
+## What I did 📝
 
-### Projects 📝
+### Projects 
 * [drone with gyroscopic guard](https://github.com/mokhwasomssi/drone_with_gyroscopic_guard.git) (2020.09 ~ )
   - Develop drone firmware and Design gyroscopic guard.
 * [balancing robot](https://github.com/mokhwasomssi/stm32_hal_balancing_bot.git) (2019.12 ~ 2020.02)
