@@ -1,4 +1,4 @@
-## About me 🐤
+## About me 🐣
 * 임베디드 개발자를 희망하는 대학생입니다. 
 
 ## Channel 🔔
@@ -7,7 +7,7 @@
 ## Programming language ✏
 * C / C++
 
-## Tools 🔨
+## Dev Tools ✍
 * STM32CubeIDE  
 * SOLIDWORKS
 * KiCad
@@ -24,7 +24,7 @@
 * [line follower ver.1](https://github.com/mokhwasomssi/stm32_spl_line_tracer.git) 
   - Focus on using the peripherals.
 
-### Library
+### Libraries
 * [Dshot](https://github.com/mokhwasomssi/stm32_hal_dshot.git)
   - Drone ESC digital protocol
 * [ICM-20948](https://github.com/mokhwasomssi/stm32_hal_icm20948.git)
