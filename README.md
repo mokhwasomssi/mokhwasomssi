@@ -12,7 +12,7 @@
 * SOLIDWORKS
 * KiCad
 
-## What I did 📝
+## what I've done 📝
 
 ### Projects 
 * [drone with gyroscopic guard](https://github.com/mokhwasomssi/drone_with_gyroscopic_guard.git)
