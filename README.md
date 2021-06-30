@@ -2,7 +2,9 @@
 * 임베디드 개발자를 희망하는 대학생입니다. 
 
 ## Channel 🔔
+- [GitHub](https://github.com/mokhwasomssi)
 - [Blog](https://mokhwasomssi.tistory.com/)
+- [Youtube](https://www.youtube.com/channel/UCjLpy5cuPepSS_kRHBvJvzQ)
 
 ## Programming language ✏
 * C / C++
@@ -25,6 +27,8 @@
   - Focus on using the peripherals.
 
 ### Libraries
+* [SSD1306](https://github.com/mokhwasomssi/stm32_hal_ssd1306.git)
+  - 128x64 Dot matrix OLED/PLED driver with controller
 * [Dshot](https://github.com/mokhwasomssi/stm32_hal_dshot.git)
   - Drone ESC digital protocol
 * [ICM-20948](https://github.com/mokhwasomssi/stm32_hal_icm20948.git)
