@@ -6,7 +6,7 @@
 - [Blog](https://mokhwasomssi.tistory.com/)
 - [Youtube](https://www.youtube.com/channel/UCjLpy5cuPepSS_kRHBvJvzQ)
 
-## ✏ Programming language 
+## ▎✏ Programming language 
 * C / C++
 
 ## ▎✍ Dev Tools 
