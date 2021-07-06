@@ -1,22 +1,22 @@
-## About me 🐣
+## ▎🐣 About me 
 * 임베디드 개발자를 희망하는 대학생입니다. 
 
-## Channel 🔔
+## ▎🔔 Channel 
 - [GitHub](https://github.com/mokhwasomssi)
 - [Blog](https://mokhwasomssi.tistory.com/)
 - [Youtube](https://www.youtube.com/channel/UCjLpy5cuPepSS_kRHBvJvzQ)
 
-## Programming language ✏
+## ✏ Programming language 
 * C / C++
 
-## Dev Tools ✍
+## ▎✍ Dev Tools 
 * STM32CubeIDE  
 * SOLIDWORKS
 * KiCad
 
-## What I've done 📝
+## ▎📝 What I've done 
 
-### Projects 
+### ▎Projects 
 * [drone with gyroscopic guard](https://github.com/mokhwasomssi/drone_with_gyroscopic_guard.git)
   - Develop drone firmware and Design gyroscopic guard.
 * [balancing robot](https://github.com/mokhwasomssi/stm32_hal_balancing_bot.git)  
@@ -26,7 +26,7 @@
 * [line follower ver.1](https://github.com/mokhwasomssi/stm32_spl_line_tracer.git) 
   - Focus on using the peripherals.
 
-### Libraries
+### ▎Libraries
 * [SSD1306](https://github.com/mokhwasomssi/stm32_hal_ssd1306.git)
   - 128x64 Dot matrix OLED/PLED driver with controller
 * [Dshot](https://github.com/mokhwasomssi/stm32_hal_dshot.git)
