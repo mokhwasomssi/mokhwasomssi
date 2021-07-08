@@ -1,20 +1,17 @@
-## About me 🐣 
-* 임베디드 개발자를 희망하는 대학생입니다. 
+## About me 🦄 
+임베디드 개발자를 희망하는 대학생입니다. 
 
-## Channel 🔔 
-- [GitHub](https://github.com/mokhwasomssi)
-- [Blog](https://mokhwasomssi.tistory.com/)
+## Channel 🐬
+- [GitHub](https://github.com/mokhwasomssi) 
+- [Blog](https://mokhwasomssi.tistory.com/) 
 - [Youtube](https://www.youtube.com/channel/UCjLpy5cuPepSS_kRHBvJvzQ)
 
-## Programming language ✏ 
-* C / C++
-
-## Dev Tools ✍
+## Dev Tools 🐳
 * STM32CubeIDE  
 * SOLIDWORKS
 * KiCad
 
-## What I've done 📝 
+## What I've done 🐟
 
 ### Projects 
 * [drone with gyroscopic guard](https://github.com/mokhwasomssi/drone_with_gyroscopic_guard.git)
@@ -33,7 +30,8 @@
   - Drone ESC digital protocol
 * [ICM-20948](https://github.com/mokhwasomssi/stm32_hal_icm20948.git)
   - 9-axis IMU sensor
+* [Flysky ibus](https://github.com/mokhwasomssi/stm32_hal_flysky_ibus.git)
+  - Flysky RC receiver protocol
 * [MPU6050](https://github.com/mokhwasomssi/stm32_hal_mpu6050.git)
   - 6-axis IMU sensor
-* [Flysky ibus](https://github.com/mokhwasomssi/stm32_hal_flysky_ibus.git)
-  - RC receiver protocol (Based on UART)
+
