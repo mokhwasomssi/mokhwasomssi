@@ -24,6 +24,8 @@
   - Focus on using the peripherals.
 
 ### Libraries
+* [nRF24L01+](https://github.com/mokhwasomssi/stm32_hal_nrf24l01.git)
+  - Single chip 2.4GHz transceiver
 * [SSD1306](https://github.com/mokhwasomssi/stm32_hal_ssd1306.git)
   - 128x64 Dot matrix OLED/PLED driver with controller
 * [Dshot](https://github.com/mokhwasomssi/stm32_hal_dshot.git)
