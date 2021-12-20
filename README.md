@@ -1,5 +1,6 @@
 ## About me 🦄 
-임베디드 개발자를 희망하는 대학생입니다. 
+- 임베디드 개발자를 희망하는 대학생입니다. 
+- [포트폴리오](https://www.notion.so/Embedded-Developer-f69a3933fb4941249de3716102579387)
 
 ## Channel 🐬
 - [GitHub](https://github.com/mokhwasomssi) 
@@ -16,7 +17,7 @@
 ### Projects 
 * [drone with gyroscopic guard](https://github.com/mokhwasomssi/drone_with_gyroscopic_guard.git)
   - Develop drone firmware and Design gyroscopic guard.
-* [balancing robot](https://github.com/mokhwasomssi/stm32_hal_balancing_bot.git)  
+* [balancing robot](https://github.com/mokhwasomssi/stm32_hal_balancing_robot.git)  
   - Simple balancing robot using MPU6050.
 * [line follower ver.2](https://github.com/mokhwasomssi/stm32_hal_line_tracer.git)
   - Add PID control and ADC calibration.
@@ -24,16 +25,23 @@
   - Focus on using the peripherals.
 
 ### Libraries
-* [nRF24L01+](https://github.com/mokhwasomssi/stm32_hal_nrf24l01.git)
-  - Single chip 2.4GHz transceiver
-* [SSD1306](https://github.com/mokhwasomssi/stm32_hal_ssd1306.git)
-  - 128x64 Dot matrix OLED/PLED driver with controller
 * [Dshot](https://github.com/mokhwasomssi/stm32_hal_dshot.git)
   - Drone ESC digital protocol
 * [ICM-20948](https://github.com/mokhwasomssi/stm32_hal_icm20948.git)
   - 9-axis IMU sensor
 * [Flysky ibus](https://github.com/mokhwasomssi/stm32_hal_flysky_ibus.git)
   - Flysky RC receiver protocol
+* [nRF24L01+](https://github.com/mokhwasomssi/stm32_hal_nrf24l01.git)
+  - Single chip 2.4GHz transceiver
+* [SSD1306](https://github.com/mokhwasomssi/stm32_hal_ssd1306.git)
+  - 128x64 Dot matrix OLED/PLED driver with controller
 * [MPU6050](https://github.com/mokhwasomssi/stm32_hal_mpu6050.git)
   - 6-axis IMU sensor
 
+### School Projects
+- [FPGA_Dang9](https://github.com/mokhwasomssi/FPGA_Dang9.git)
+  - FPGA로 만든 변형 당구 게임
+- [FPGA_Calculator](https://github.com/mokhwasomssi/FPGA_Calculator.git)
+  - FPGA로 만든 계산기
+- [game_and_sensor_monitoring](https://github.com/mokhwasomssi/game_and_sensor_monitoring.git)
+  - 리눅스 환경에서 만든 게임과 센서 모니터링
