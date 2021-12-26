@@ -39,9 +39,9 @@
   - 6-axis IMU sensor
 
 ### School Projects
+- [game_and_sensor_monitoring](https://github.com/mokhwasomssi/game_and_sensor_monitoring.git)
+  - 리눅스 환경에서 만든 게임과 센서 모니터링
 - [FPGA_Dang9](https://github.com/mokhwasomssi/FPGA_Dang9.git)
   - FPGA로 만든 변형 당구 게임
 - [FPGA_Calculator](https://github.com/mokhwasomssi/FPGA_Calculator.git)
   - FPGA로 만든 계산기
-- [game_and_sensor_monitoring](https://github.com/mokhwasomssi/game_and_sensor_monitoring.git)
-  - 리눅스 환경에서 만든 게임과 센서 모니터링
