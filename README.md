@@ -7,10 +7,11 @@
 - [Blog](https://mokhwasomssi.tistory.com/) 
 - [Youtube](https://www.youtube.com/channel/UCjLpy5cuPepSS_kRHBvJvzQ)
 
-## Dev Tools 🐳
-* STM32CubeIDE  
-* SOLIDWORKS
-* KiCad
+## Skills 🐳
+* C
+* STM32 MCU (Arm Cortex M)
+* Familiar with Data Sheet
+* 3D Modeling
 
 ## What I've done 🐟
 
