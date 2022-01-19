@@ -1,6 +1,6 @@
 ## About me 🦄 
 - 로봇 펌웨어 개발자를 희망하는 대학생입니다. 
-- [포트폴리오](https://www.notion.so/Embedded-Developer-f69a3933fb4941249de3716102579387)
+- [이력서](https://www.notion.so/Embedded-Developer-f69a3933fb4941249de3716102579387)
 
 ## Channel 🐬
 - [GitHub](https://github.com/mokhwasomssi) 
