@@ -9,7 +9,7 @@
 
 ## Skills 🐳
 * C
-* Bare-metmal firmware
+* Bare-metal firmware
 * STM32 MCU (Arm Cortex M)
 * 3D Modeling
 
