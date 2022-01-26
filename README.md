@@ -9,8 +9,8 @@
 
 ## Skills 🐳
 * C
+* Bare-metmal firmware
 * STM32 MCU (Arm Cortex M)
-* Familiar with Data Sheet
 * 3D Modeling
 
 ## What I've done 🐟
