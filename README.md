@@ -1,7 +1,6 @@
 ## About me 🦄 
 - Embedded System Engineer at [NEUBILITY](https://www.neubility.co.kr/) (2022.03.02~)
 - 명지대 기계공학과 4-1 (2022.03.02~) 
-- MBTI : ISTJ
 
 ## Channel 🐬
 - [GitHub](https://github.com/mokhwasomssi) 
