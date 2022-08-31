@@ -1,6 +1,5 @@
 ## About me 🦄 
 - Firmware Engineer at [NEUBILITY](https://www.neubility.co.kr/) (2022.03.02~)
-- 명지대 기계공학과 3-2까지 수료 (휴학 중)
 
 ## Channel 🐬
 - [GitHub](https://github.com/mokhwasomssi) 
