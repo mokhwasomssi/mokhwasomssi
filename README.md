@@ -1,8 +1,8 @@
 ## About me 🦄 
-- Mechanical (major) / Eletronic (minor) engineering at [Myongji University](https://www.mju.ac.kr/sites/mjukr/intro/intro.html) (2018.03 ~ 2024.02)
+- Mechanical (major) / Electronic (minor) engineering at [Myongji University](https://www.mju.ac.kr/sites/mjukr/intro/intro.html) (2018.03 ~ 2024.02)
 - Firmware Engineer at [NEUBILITY](https://www.neubility.co.kr/) (2022.03 ~ 2023.03)
 
-![물리법칙](https://github.com/mokhwasomssi/mokhwasomssi/assets/48342925/64fdf31e-0282-4563-8914-e1b4d19e5bac){: width=50%" height="50%"}
+![물리법칙2](https://github.com/mokhwasomssi/mokhwasomssi/assets/48342925/34f7cc1c-e1ed-49f6-a379-b049f63cd704)
 
 ## Channel 🐬
 - [GitHub](https://github.com/mokhwasomssi) 
@@ -14,7 +14,7 @@
 ### Projects 
 - [IOT_TableClock](https://github.com/mokhwasomssi/IOT_TableClock)
   - 실용성있는 위젯을 추가한 IOT 탁상시계
-* [drone with gyroscopic guard](https://github.com/mokhwasomssi/drone_with_gyroscopic_guard.git)
+- [drone with gyroscopic guard](https://github.com/mokhwasomssi/drone_with_gyroscopic_guard.git)
   - Develop drone firmware and Design gyroscopic guard.
 - [FPGA_Dang9](https://github.com/mokhwasomssi/FPGA_Dang9.git)
   - FPGA(verilog)로 만든 변형 당구 게임
