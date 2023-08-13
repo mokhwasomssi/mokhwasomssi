@@ -1,28 +1,25 @@
 ## About me 🦄 
-- Firmware Engineer at [NEUBILITY](https://www.neubility.co.kr/) (2022.03.02~)
+- Mechanical (major) / Eletronic (minor) engineering at [Myongji University](https://www.mju.ac.kr/sites/mjukr/intro/intro.html) (2018.03 ~ 2024.02)
+- Firmware Engineer at [NEUBILITY](https://www.neubility.co.kr/) (2022.03 ~ 2023.03)
+
+![물리법칙](https://github.com/mokhwasomssi/mokhwasomssi/assets/48342925/64fdf31e-0282-4563-8914-e1b4d19e5bac){: width=50%" height="50%"}
 
 ## Channel 🐬
 - [GitHub](https://github.com/mokhwasomssi) 
 - [Blog](https://mokhwasomssi.tistory.com/) 
 - [Youtube](https://www.youtube.com/channel/UCjLpy5cuPepSS_kRHBvJvzQ)
 
-## Skills 🐳
-* C
-* Bare-metal firmware
-* STM32 MCU (Arm Cortex M)
-* 3D Modeling
-
 ## What I've done 🐟
 
 ### Projects 
+- [IOT_TableClock](https://github.com/mokhwasomssi/IOT_TableClock)
+  - 실용성있는 위젯을 추가한 IOT 탁상시계
 * [drone with gyroscopic guard](https://github.com/mokhwasomssi/drone_with_gyroscopic_guard.git)
   - Develop drone firmware and Design gyroscopic guard.
-* [balancing robot](https://github.com/mokhwasomssi/stm32_hal_balancing_robot.git)  
-  - Simple balancing robot using MPU6050.
-* [line follower ver.2](https://github.com/mokhwasomssi/stm32_hal_line_tracer.git)
-  - Add PID control and ADC calibration.
-* [line follower ver.1](https://github.com/mokhwasomssi/stm32_spl_line_tracer.git) 
-  - Focus on using the peripherals.
+- [FPGA_Dang9](https://github.com/mokhwasomssi/FPGA_Dang9.git)
+  - FPGA(verilog)로 만든 변형 당구 게임
+- [game_and_sensor_monitoring](https://github.com/mokhwasomssi/game_and_sensor_monitoring.git)
+  - 리눅스 환경에서 만든 게임과 센서 모니터링
 
 ### Libraries
 * [Dshot](https://github.com/mokhwasomssi/stm32_hal_dshot.git)
@@ -37,11 +34,3 @@
   - 128x64 Dot matrix OLED/PLED driver with controller
 * [MPU6050](https://github.com/mokhwasomssi/stm32_hal_mpu6050.git)
   - 6-axis IMU sensor
-
-### School Projects
-- [game_and_sensor_monitoring](https://github.com/mokhwasomssi/game_and_sensor_monitoring.git)
-  - 리눅스 환경에서 만든 게임과 센서 모니터링
-- [FPGA_Dang9](https://github.com/mokhwasomssi/FPGA_Dang9.git)
-  - FPGA로 만든 변형 당구 게임
-- [FPGA_Calculator](https://github.com/mokhwasomssi/FPGA_Calculator.git)
-  - FPGA로 만든 계산기
