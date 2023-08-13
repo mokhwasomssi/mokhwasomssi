@@ -2,7 +2,7 @@
 - Mechanical (major) / Electronic (minor) engineering at [Myongji University](https://www.mju.ac.kr/sites/mjukr/intro/intro.html) (2018.03 ~ 2024.02)
 - Firmware Engineer at [NEUBILITY](https://www.neubility.co.kr/) (2022.03 ~ 2023.03)
 
-![물리법칙2](https://github.com/mokhwasomssi/mokhwasomssi/assets/48342925/34f7cc1c-e1ed-49f6-a379-b049f63cd704)
+![물리법칙2](https://github.com/mokhwasomssi/mokhwasomssi/assets/48342925/e68ee24d-78f7-4a04-bf24-190a70790773)
 
 ## Channel 🐬
 - [GitHub](https://github.com/mokhwasomssi) 
