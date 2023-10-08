@@ -1,8 +1,6 @@
 ## About me 🦄 
-- Mechanical (major) / Electronic (minor) engineering at [Myongji University](https://www.mju.ac.kr/sites/mjukr/intro/intro.html) (2018.03 ~ 2024.02)
-- Firmware Engineer at [NEUBILITY](https://www.neubility.co.kr/) (2022.03 ~ 2023.03)
-
-![물리법칙2](https://github.com/mokhwasomssi/mokhwasomssi/assets/48342925/e68ee24d-78f7-4a04-bf24-190a70790773)
+- Mechanical engineering / Smart Embedded Mechanical System (EE) at [Myongji University](https://www.mju.ac.kr/sites/mjukr/intro/intro.html) (2018.03 ~ 2024.02)
+- Embedded Firmware Engineer at [NEUBILITY](https://www.neubility.co.kr/) (2022.03 ~ 2023.03)
 
 ## Channel 🐬
 - [GitHub](https://github.com/mokhwasomssi) 
