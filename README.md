@@ -1,6 +1,8 @@
 ## About me 🦄 
-- Mechanical engineering / Smart Embedded Mechanical System (EE) at [Myongji University](https://www.mju.ac.kr/sites/mjukr/intro/intro.html) (2018.03 ~ 2024.02)
-- Embedded Firmware Engineer at [NEUBILITY](https://www.neubility.co.kr/) (2022.03 ~ 2023.03)
+- [Myongji University](https://www.mju.ac.kr/sites/mjukr/intro/intro.html) (2018.03 ~ 2024.02)
+  - Mechanical engineering / Smart Embedded Mechanical System (EE)
+- [NEUBILITY](https://www.neubility.co.kr/) (2022.03 ~ 2023.03)
+  - Embedded Firmware Engineer
 
 ## Channel 🐬
 - [GitHub](https://github.com/mokhwasomssi) 
