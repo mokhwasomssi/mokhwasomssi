@@ -12,6 +12,8 @@
 ## What I've done 🐟
 
 ### Projects 
+- [Smart Clock with TouchGFX](https://github.com/smart-clock)
+  - 터치 스크린으로 조작하는 탁상 시계. GUI 개발
 - [IOT_TableClock](https://github.com/mokhwasomssi/IOT_TableClock)
   - 실용성있는 위젯을 추가한 IOT 탁상시계
 - [drone with gyroscopic guard](https://github.com/mokhwasomssi/drone_with_gyroscopic_guard.git)
