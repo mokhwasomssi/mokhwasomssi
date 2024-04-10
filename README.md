@@ -1,8 +1,8 @@
 ## Experience 🦄
-- *[HL Klemove](https://www.hlklemove.com/)* (24.01 ~ Present) Platform SW Engineer / Automotive Industry
+- *[HL Klemove](https://www.hlklemove.com/) (24.01 ~ Present)* Platform SW Engineer (Automotive)
     - Mass Production Development of AUTOSAR Platfrom ADCU
       - ADCU(Automated Driving Control Unit)
-- *[NEUBILITY](https://www.neubility.co.kr/)* (22.03 ~ 23.03) Embedded Firmware Engineer / Robot Industry
+- *[NEUBILITY](https://www.neubility.co.kr/) (22.03 ~ 23.03)* Embedded Firmware Engineer (Robot)
     - Development of Non-OS, RTOS Robot Firmware 
       - UART, SPI, PWM, DMA, ADC based on STM32 MCU
 - *[Myongji University](https://www.mju.ac.kr/sites/mjukr/intro/intro.html) (18.03 ~ 24.02)* Bachelor's Degree
