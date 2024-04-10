@@ -1,6 +1,6 @@
 ## Experience 🦄
 - *[HL Klemove](https://www.hlklemove.com/) (24.01 ~ Present)* Platform SW Engineer
-    - Mass Production Development of AUTOSAR Platfrom ADCU
+    - Mass Production Development of AUTOSAR Platfrom ADCU  
       - ADCU(Automated Driving Control Unit)
 - *[NEUBILITY](https://www.neubility.co.kr/) (22.03 ~ 23.03)* Embedded Firmware Engineer
     - Development of Non-OS, RTOS Robot Firmware 
