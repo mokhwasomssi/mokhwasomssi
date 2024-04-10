@@ -10,7 +10,7 @@
   - Smart Embedded Mechanical System (EE)
 
 ## Channel 🐬
-- [GitHub](https://github.com/mokhwasomssi) / [Blog](https://mokhwasomssi.tistory.com/) / [Youtube](https://www.youtube.com/channel/UCjLpy5cuPepSS_kRHBvJvzQ)
+- [LinkedIn](https://www.linkedin.com/in/eunhye-seok-966401229/) / [Blog](https://mokhwasomssi.tistory.com/) / [Youtube](https://www.youtube.com/channel/UCjLpy5cuPepSS_kRHBvJvzQ)
 
 ## Project ✈️
 | Repo  | Tag  |
