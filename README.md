@@ -1,9 +1,11 @@
 ## Experience 🦄
-- *[HL Klemove](https://www.hlklemove.com/) (24.01 ~ Present)* Platform SW Engineer
+힘들어요!!!
+
+- *[HL Klemove](https://www.hlklemove.com/) (24.01 ~ Present, 1yr~)* Platform SW Engineer
     - Develop vehicle ADCU (adas driving control unit) mass production
       - Autosar platform
       - Trace 32, CANoe
-- *[NEUBILITY](https://www.neubility.co.kr/) (22.03 ~ 23.03)* Embedded Firmware Engineer
+- *[NEUBILITY](https://www.neubility.co.kr/) (22.03 ~ 23.03, 1yr)* Embedded Firmware Engineer
     - Develop delivery robot firmware 
       - STM32 MCU
       - LED, Motor, Sensor, Power
