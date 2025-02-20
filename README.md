@@ -1,10 +1,12 @@
 ## Experience 🦄
 - *[HL Klemove](https://www.hlklemove.com/) (24.01 ~ Present)* Platform SW Engineer
-    - Mass Production Development of AUTOSAR Platfrom ADCU  
-      - ADCU(Automated Driving Control Unit)
+    - Develop vehicle ADCU (adas driving control unit) mass production
+      - Autosar platform
+      - Trace 32, CANoe
 - *[NEUBILITY](https://www.neubility.co.kr/) (22.03 ~ 23.03)* Embedded Firmware Engineer
-    - Development of Non-OS, RTOS Robot Firmware 
-      - UART, SPI, PWM, DMA, ADC based on STM32 MCU
+    - Develop delivery robot firmware 
+      - STM32 MCU
+      - LED, Motor, Sensor, Power
 - *[Myongji University](https://www.mju.ac.kr/sites/mjukr/intro/intro.html) (18.03 ~ 24.02)* Bachelor's Degree
   - Mechanical Engineering (ME)
   - Smart Embedded Mechanical System (EE)
